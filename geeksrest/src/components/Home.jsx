@@ -2,6 +2,7 @@ import React from 'react'
 import './Home.css'
 import Drop  from './dropdown'
 import {Bing} from './Bing'
+import Dropthree from './threedrop'
 export const Home = () => {
   return (
     <div className='home'>
@@ -10,7 +11,7 @@ export const Home = () => {
           <p>Images</p>
           <p>Vedioes</p>
           <p>Translate</p>
-         <p>...</p>
+         <p><Dropthree /></p>
        
       </div>
 

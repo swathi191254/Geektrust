@@ -1,6 +1,6 @@
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
-import "./Bing.css";
+import "./Home.css";
 
 export const Bing = ()=>{
 
